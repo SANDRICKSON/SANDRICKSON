@@ -4,7 +4,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=2F80F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+%26+Web+Specialist;AI+%26+Machine+Learning+Enthusiast;Flutter+Expert" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+Expert;AI+%26+ML+Enthusiast;Mobile+App+Specialist;UI%2FUX+Obsessed" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" style="border-radius: 50px; border: 3px solid #00FF00;"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SANDRICKSON&label=PROFILE+VIEWS&color=00FF00&style=for-the-badge&labelColor=black" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/SANDRICKSON?style=for-the-badge&color=00FF00&labelColor=black&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/SANDRICKSON?style=for-the-badge&color=00FF00&labelColor=black&label=STARS"/>
+</p>
 <br>
 
 ## 🧑‍💻 About Me
