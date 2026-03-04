@@ -19,6 +19,23 @@ I thrive on solving complex problems and am constantly exploring new frontiers i
 - 💡 **Ask me about:** Full-stack architecture, cross-platform development with Flutter, or building intelligent applications.
 - ⚡ **Fun fact:** My debugger is faster than my decision-making at a restaurant menu. 😄
 
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 <b>Currently working on:</b> AI-powered Flutter applications</li>
+        <li>🌱 <b>Deepening expertise in:</b> Machine Learning & Cloud Architecture</li>
+        <li>👯 <b>Looking to collaborate on:</b> Open-source Flutter projects</li>
+        <li>💬 <b>Ask me about:</b> Flutter, Python, AI, or Web Development</li>
+        <li>⚡ <b>Fun fact:</b> I write code faster than I decide what to eat! 😄</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250" style="border-radius: 20px;"/>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ## 🛠️ Technical Proficiencies
