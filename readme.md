@@ -91,16 +91,18 @@ I thrive on solving complex problems and am constantly exploring new frontiers i
 
 <br>
 
-## 📈 GitHub Analytics
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SANDRICKSON&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDRICKSON&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SANDRICKSON&show_icons=true&theme=radical&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SANDRICKSON&theme=radical&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC&hide_border=true" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDRICKSON&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANDRICKSON&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00&hide_border=true" width="95%"/>
+</div>
 
 <br>
 
