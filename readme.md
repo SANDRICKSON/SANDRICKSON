@@ -94,7 +94,7 @@ I thrive on solving complex problems and am constantly exploring new frontiers i
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SANDRICKSON&show_icons=true&theme=radical&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&hide_border=true&count_private=true" />
+  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SANDRICKSON&theme=radical&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC&hide_border=true" />
 </div>
 
