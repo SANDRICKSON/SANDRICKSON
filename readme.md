@@ -68,6 +68,16 @@ I thrive on solving complex problems and am constantly exploring new frontiers i
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+
+### **State Management & Architecture**
+<p align="center">
+  <img src="https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
+  <img src="https://img.shields.io/badge/Riverpod-4ECDC4?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/BLoC-027DFD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Cubit-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Cubit" />
+  <img src="https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+</p>
+
 ### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
