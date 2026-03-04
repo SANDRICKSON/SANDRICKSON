@@ -13,11 +13,7 @@ I'm a results-oriented **Full-Stack Developer** based in Tbilisi, Georgia, with 
 
 I thrive on solving complex problems and am constantly exploring new frontiers in tech. Whether it's optimizing a database query or designing a seamless user interface, I'm committed to writing clean, efficient, and maintainable code.
 
-- 🔭 **Currently working on:** Innovative projects at the intersection of Flutter and AI.
-- 🌱 **Deepening my expertise in:** Advanced Flutter patterns, Machine Learning, and Cloud Architecture (AWS/Azure).
-- 👯 **Looking to collaborate on:** Open-source Flutter libraries and impactful Python/AI initiatives.
-- 💡 **Ask me about:** Full-stack architecture, cross-platform development with Flutter, or building intelligent applications.
-- ⚡ **Fun fact:** My debugger is faster than my decision-making at a restaurant menu. 😄
+
 
 <table>
   <tr>
